@@ -44,3 +44,8 @@ Para adicionar os dados é necessário utilizar o método POST com o corpo da me
 }
 ```
 
+
+
+# Autor
+
+[![Linkedin Badge](https://img.shields.io/static/v1?label=IN&message=Fl%C3%A1vio%20Potugal&color=blue)](https://www.linkedin.com/in/flavio-portugal/)
