@@ -30,7 +30,7 @@ Para executar o projeto no terminal, digite o seguinte comando dentro da pasta r
 sudo docker-compose up --build
 ```
 
-Após executar o comando acima, basta abrir o seguinte endereço e visualizar a execução do projeto. Lembrando que a lista de mensagens estará vazia e será necessário adicionar os dados pelo método POST:
+Após executar o comando acima, basta abrir o seguinte endereço e visualizar a execução do projeto:
 
 ```
 http://localhost:8081
